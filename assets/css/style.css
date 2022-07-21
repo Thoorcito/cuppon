@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* edicion banner */
+.logo{
+    width: 110px;
+}
+
+/* edicion color fondo banner y formulario */
+.fondo{
+    background-color: #28A745;
+}
+
+/* edicion de card */
+
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300; 
+    font-size: 20px;
+    text-align: left;
+    color:#212529 ;
+}
+
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300; 
+    font-size: 16px;
+    text-align: left;
+    color:#707070 ;
+}
+
+.precio1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300; 
+    font-size: 16px;
+    text-align: left;
+    color:#707070;
+}
+
+.precio2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500; 
+    font-size: 20px;
+    text-align: left;
+    color:#28A745;
+}
+
+/* edicion formulario */
+.tituloformulario{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500; 
+    font-size: 21px;
+    text-align: center;
+    color:#FFFFFF;
+
+}
+
+.botonenviar{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500; 
+    font-size: 16px;
+    text-align: center;
+    color:#212529;
+
+}
+
+/* edicion footer */
+
+.textofooter{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300; 
+    font-size: 16px;
+    text-align: center;
+    color:#707070;
+
+}
